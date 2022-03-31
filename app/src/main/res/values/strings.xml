@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationComponent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="txtStartFrag">Start Fragment</string>
+    <string name="hint_Nome">Digite seu nome</string>
+    <string name="btn_Next">Next</string>
+    <string name="rb_Frag2">Segundo Fragmento</string>
+    <string name="rbFrag3">Terceiro Fragmento</string>
+    <string name="txtPrimeiroFrag">Primeiro Fragmento</string>
+</resources>
